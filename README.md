@@ -3,13 +3,9 @@
 
 To do
 
-- [ ] rt
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
+- [ ] Create server
+- [ ] Create Database
+- [ ] Code of Conduct
+- [ ] Icons
+- [ ] Orientation
+
