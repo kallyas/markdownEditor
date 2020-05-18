@@ -11,3 +11,4 @@ To do
 - [X] Icons
 - [X] Orientation
 
+[![Run on Repl.it](https://repl.it/badge/github/kallyas/markdownEditor)](https://repl.it/github/kallyas/markdownEditor)
