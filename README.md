@@ -1,11 +1,13 @@
+[![Build Status](https://travis-ci.com/kallyas/markdownEditor.svg?branch=master)](https://travis-ci.com/kallyas/markdownEditor)
+
 # MarkdownEditor
  Lightweight realtime markdown viewer and editor - Simple, clean and beautiful
 
 To do
 
-- [ ] Create server
-- [ ] Create Database
+- [X] Create server
+- [X] Create Database
 - [ ] Code of Conduct
-- [ ] Icons
-- [ ] Orientation
+- [X] Icons
+- [X] Orientation
 
