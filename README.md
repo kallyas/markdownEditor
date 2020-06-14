@@ -8,7 +8,7 @@ To do
 
 - [X] Create server
 - [X] Create Database
-- [ ] Code of Conduct
+- [X] Code of Conduct
 - [X] Icons
 - [X] Orientation
 
