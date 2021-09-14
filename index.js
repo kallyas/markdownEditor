@@ -181,7 +181,7 @@ const download = () => {
 		type: 'text/plain'
 	})
 	let anchor = document.createElement('a')
-	anchor.download = 'marcdown.md'
+	anchor.download = 'markdown.md'
 	anchor.href = window.URL.createObjectURL(blob)
 	anchor.target = '_blank'
 	anchor.style.display = 'none'
