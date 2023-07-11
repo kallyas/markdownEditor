@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kallyas/markdownEditor.git"
   },
   "devDependencies": {
-    "jshint": "^2.10.2"
+    "jshint": "^2.13.6"
   },
   "keywords": [],
   "author": "Kally",
